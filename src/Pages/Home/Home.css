@@ -1,0 +1,81 @@
+.container {
+  padding-left: 17.6%;
+  padding-right: 2%;
+  padding-top: 5%;
+  padding-bottom: 20px;
+}
+.large-container{
+  padding-left: 7%;
+}
+@media screen and (max-width: 1370px) {
+  .container {
+    padding-left: 18%;
+    padding-top: 6%;
+  }
+  .large-container{
+    padding-left: 7%;
+  }
+}
+@media screen and (max-width: 1150px) {
+  .container {
+    padding-left: 19%;
+    padding-top: 7%;
+  }
+  .large-container{
+    padding-left: 7%;
+  }
+}
+@media screen and (max-width: 1000px) {
+  .container {
+    padding-left: 19.5%;
+    padding-top: 7.5%;
+  }
+  .large-container{
+    padding-left: 7%;
+  }
+}
+@media screen and (max-width: 950px) {
+  .container {
+    padding-left: 20.9%;
+    padding-top: 8.5%;
+  }
+  .large-container{
+    padding-left: 7%;
+  }
+}
+@media screen and (max-width: 900px) {
+  .container {
+    padding-left: 22%;
+    padding-top: 9.5%;
+  }
+  .large-container{
+    padding-left: 7%;
+  }
+}
+@media screen and (max-width: 800px) {
+  .container {
+    padding-left: 23.5%;
+    padding-top: 10%;
+  }
+  .large-container{
+    padding-left: 8.5%;
+  }
+}
+@media screen and (max-width: 750px) {
+  .container {
+    padding-left: 25%;
+    padding-top: 11.6%;
+  }
+  .large-container{
+    padding-left: 8.6%;
+  }
+}
+@media screen and (max-width: 700px) {
+  .container {
+    padding-left: 28.5%;
+    padding-top: 12%;
+  }
+  .large-container{
+    padding-left: 9%;
+  }
+}

@@ -1,0 +1,48 @@
+.play-container {
+  background: #f9f9f9;
+  padding: 20px 2% 20px 2%;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin-top: 5%;
+}
+@media screen and (max-width: 1370px) {
+  .play-container {
+    margin-top: 5.2%;
+  }
+}
+@media screen and (max-width: 1160px) {
+  .play-container {
+    margin-top: 5.7%;
+  }
+}
+@media screen and (max-width: 1070px) {
+  .play-container {
+    margin-top: 6.2%;
+  }
+}
+@media screen and (max-width: 958px) {
+  .play-container {
+    margin-top: 6.9%;
+  }
+}
+@media screen and (max-width: 860px) {
+  .play-container {
+    margin-top: 7.3%;
+  }
+}
+@media screen and (max-width: 810px) {
+  .play-container {
+    margin-top: 7.9%;
+  }
+}
+@media screen and (max-width: 750px) {
+  .play-container {
+    margin-top: 8.5%;
+  }
+}
+@media screen and (max-width: 680px) {
+  .play-container {
+    margin-top: 10%;
+  }
+}
